@@ -9,7 +9,8 @@
 # Notes:
 # recall that your abundance data are TPM, while the counts are read counts mapping to each gene or transcript
 # Download packages -----
-#expand the repository list from which you can install packages using the following:
+---#expand the repository list from which you can install packages using the following:---------
+
 setRepositories()
 #after you hit enter, you'll get an output of all the avaialbale repositories to choose from, so choose all by typing
 1 2 3 4 5 6 7 
